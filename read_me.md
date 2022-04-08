@@ -1,3 +1,3 @@
 # Hello git
 
-*This is fun*
+*This should be interesting*
