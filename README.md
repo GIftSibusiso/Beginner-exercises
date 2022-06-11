@@ -1,3 +1,3 @@
-# These are my beginner python basic projects
+# These are my beginner python basic exercises
 
 **Enjoy**
